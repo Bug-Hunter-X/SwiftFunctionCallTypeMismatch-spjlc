@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift programming error involving type mismatches in function calls. The `bug.swift` file shows incorrect usage, leading to a compile-time error. The `bugSolution.swift` file offers a solution with improved type safety.
